@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Eduardo Araújo Nóbrega 👋</h1>
+<h1 align="center">Olá, eu sou Eduardo Araújo Nóbrega 👋</h1>
 
 <p align="center">
   Estudante de Análise de Sistemas · Foco em Engenharia de Software · Interessado em Desenvolvimento Web Full-Stack
@@ -11,7 +11,7 @@
   <a href="https://github.com/EduardoAraujo265"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-📍 Rio de Janeiro, RJ · 📱 +55 21 97414-4154
+📍 Rio de Janeiro, RJ ·
 
 ---
 
@@ -95,7 +95,7 @@ Conversor de **vídeo e áudio para desktop**, feito com Electron e FFmpeg embut
 [📂 Repositório](https://github.com/EduardoAraujo265/Desencurtador-de-Links)
 
 ### 📊 Projeto Power BI
-Relatório/dashboard desenvolvido em **Power BI** (página "Visão Geral").
+Relatório/dashboard desenvolvido em **Power BI** Sobre uma Loja de E-commerce brasileira.
 `Power BI`
 
 [📈 Abrir relatório](https://app.powerbi.com/groups/me/reports/1791d857-8709-4bac-89f2-d6ed53604f11/VisaoGeral?experience=power-bi)
@@ -109,7 +109,6 @@ Relatório/dashboard desenvolvido em **Power BI** (página "Visão Geral").
 | Repositório | Descrição | Linguagem |
 |---|---|---|
 | [desafio-EduardoAraujo265-2025](https://github.com/EduardoAraujo265/desafio-EduardoAraujo265-2025) | Solução do desafio "Abrigo de Animais" (regras de adoção por brinquedos favoritos), com testes em Jest | JavaScript |
-| [LimpaTudo-Solucao](https://github.com/EduardoAraujo265/LimpaTudo-Solucao) | Solução do projeto LimpaTudo (fork), projeto Maven | Java |
 
 👉 [Ver todos os repositórios](https://github.com/EduardoAraujo265?tab=repositories)
 
@@ -129,7 +128,6 @@ Relatório/dashboard desenvolvido em **Power BI** (página "Visão Geral").
 
 **Tecnologia em Análise de Sistemas** · FAETERJ-Rio (Faculdade de Educação Tecnológica do Estado do Rio de Janeiro)
 Março 2023 – atual · Previsão de formatura: **dezembro de 2027**
-Disciplinas concluídas: Fundamentos de Programação, Desenvolvimento de Aplicações Web, Projeto de Banco de Dados.
 
 **Ensino Médio** · Colégio e Curso Futuro Vip, Rio de Janeiro
 Abril 2019 – dezembro 2021
@@ -144,6 +142,7 @@ Setembro 2018 – dezembro 2020
 - Manutenção de hardware
 - Instalação de software
 - Diagnóstico e solução de problemas de computação
+- Suporte a Usuários e Clientes
 
 ---
 
@@ -154,7 +153,7 @@ Gerenciamento de tempo · Trabalho em equipe · Resolução de problemas · Docu
 ## 🌎 Idiomas
 
 - 🇧🇷 Português: nativo
-- 🇺🇸 Inglês: intermediário
+- 🇺🇸 Inglês: Avançado
 
 ---
 
